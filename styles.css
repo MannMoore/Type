@@ -1,17 +1,49 @@
 /* Type */
 
 body {
-	background-color: #d8d8d8;
+	background-color: #151d1b;
+	font-family: 'Montserrat', sans-serif;
 }
 
-main {
-
+.word-1 {
+	color: #ffb0af;
+    font-size: 60pt;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+ 	transform: skewY(-20deg) scaleY(10.5);
 }
+
 .word-2 {
-    color: #ffb0af;
-    font-size: 60pt
-
+	color: #ffffff;
+    font-size: 20pt;
+    position: absolute;
+    top: 150px;
+    left: 50px;
 }
 
+.word-3 {
+	color: #ffffff;
+    font-size: 20pt;
+    position: absolute;
+    top: 475px;
+    left: 125px;
+}
 
+.word-4 {
+	color: #ffb0af;
+    font-size: 20pt;
+    position: absolute;
+    top: 125px;
+    left: 500px;
+    transform: skewY(-20deg) scaleY(2.5);
+}
 
+ .word-5 {
+	color: #ffb0af;
+    font-size: 20pt;
+    position: absolute;
+    top: 1000px;
+    left: 150px;
+    transform: skewY(-20deg) scaleY(2.5);
+}
